@@ -5,6 +5,7 @@
 * Extract Raspberry Pi
 * Experiment with Raspberry Pi functionality and determine unfit for purpose
 * Find and collect most efficient Arduino and certain components
+* Successfully connect to wifi
 
 ### Currently Working On:
 * Research best camera to use with Arduino for this project

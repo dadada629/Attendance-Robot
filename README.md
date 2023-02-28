@@ -6,10 +6,13 @@
 * Experiment with Raspberry Pi functionality and determine unfit for purpose
 * Find and collect most efficient Arduino and certain components
 * Successfully connect to wifi
+* Succesfully host a web server on connected wifi network
+* Somewhat succesfully connect client to web server over wifi
 
 ### Currently Working On:
 * Research best camera to use with Arduino for this project
-* Learn how to create web server on Arduino to host program
+* Improve web server stability and connection
+* Work on attendance program
 * Learn how to use pins of Arduino
 
 ### To Do List:

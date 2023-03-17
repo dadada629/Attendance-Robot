@@ -11,9 +11,12 @@
 
 ### Currently Working On:
 * Research best camera to use with Arduino for this project
-* Improve web server stability and connection
 * Work on attendance program
 * Learn how to use pins of Arduino
+* Researching ESP32 Camera Module: (Current Objective)
+     * https://www.youtube.com/watch?v=vPcJ5HOVSRQ&ab_channel=HowToElectronics
+     * Finding module and usb module to use.
+     * Learn how to use to host web server and create client side program to work with server instead of arduino running the code.
 
 ### To Do List:
 * Find and purchase best camera

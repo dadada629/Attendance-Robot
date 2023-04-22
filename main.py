@@ -1,11 +1,13 @@
-import cv2, os
 from Classes import AttendanceList
 from FaceExtractor import FaceExtractor
-from FaceDetector import FaceDetector
+from ImageDetector import ImageDetector
+import cv2
 
 #extractor = FaceExtractor()
 #extractor.extract()
 
-detector = FaceDetector()
-detector.detect()
+image = cv2.imread("peter.jpg")
+
+img = ImageDetector("Classes")
+img.detect(image)
 

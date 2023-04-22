@@ -8,7 +8,7 @@ class ImageDetector:
         self.known_faces = []
         self.known_names = []
 
-        self.face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+        self.face_cascade = cv2.CascadeClassifier('env\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml')
 
         for filename in os.listdir(self.known_faces_dir):
             image = cv2.imread(os.path.join(self.known_faces_dir, filename))

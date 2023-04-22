@@ -11,7 +11,7 @@ class FaceExtractor:
             exit()
 
         # Load the face detection classifier
-        self.face_cascade = cv2.CascadeClassifier('env/lib/python3.8/site-packages/cv2/data/haarcascade_frontalface_default.xml')
+        self.face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
     def extract(self):
         # Detect faces in the image
